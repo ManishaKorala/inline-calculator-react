@@ -9,4 +9,4 @@ To run the application, run `npm run start`. The application will be available a
 
 ### Test Cases
 
-- Some unit tests are written within the 'test' folder. To execute all the tests, use following commands: `npm install && npm test`
+Some unit tests are written within the 'test' folder. To execute all the tests, use following commands: `npm install && npm test`
